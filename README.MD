@@ -2,7 +2,7 @@
 
 ### Installing
 
-go get -u github.com/cosmos/cosmos-proto/cmd/protoc-gen-go-pulsar
+go install github.com/cosmos/cosmos-proto/cmd/protoc-gen-go-pulsar@main
 
 ### Running
 
